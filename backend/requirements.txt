@@ -1,0 +1,6 @@
+Flask==2.0.2
+requests==2.26.0
+twilio==7.0.0
+python-dotenv==0.19.2
+Flask-Cors==3.0.10
+cohere==2.0.0
