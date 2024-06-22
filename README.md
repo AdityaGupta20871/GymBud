@@ -1,4 +1,5 @@
 [Watch Video Demo](https://youtu.be/dm1YYX46k3Q)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your development environment:
@@ -6,7 +7,8 @@ Before you begin, ensure you have the following installed on your development en
 - Python 3.x
 - Node.js
 - npm (Node Package Manager)
-
+## Join Twilio Sandbox
+  ![Screenshot (172)](https://github.com/AdityaGupta20871/GymBud/assets/103377205/e2e84f66-f0da-4eb6-b610-a5c63f24a9e0)
 ## Backend Setup
 
 1. **Navigate to the backend directory:**
@@ -52,9 +54,13 @@ Before you begin, ensure you have the following installed on your development en
       choco install ngrok(in Powershell if windows)
       ngrok config add-authtoken Your AuthToken
       ngrok http 5000
-      ```
-    - Follow the instructions in the `ngrok` terminal to get your public URL.
+      Embed the url obtained after hosting into whatsapp Sandbox settings inside When a message comes in input and set url like this 
+      https://9f0a-2405-201-4020-caf5-b80e-b565-86a4- 74a6.ngrok-free.app/incoming_message
 
+      ```
+      
+    - Follow the instructions in the `ngrok` terminal to get your public URL.
+    ![Screenshot (173)](https://github.com/AdityaGupta20871/GymBud/assets/103377205/a53fa9fc-cb55-4943-8ae7-9788194430fd)
 ## Frontend Setup
 
 1. **Navigate to the frontend directory:**
