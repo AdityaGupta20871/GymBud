@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed on your development en
 
     Your Flask server will start running on http://127.0.0.1:5000/.
 
-6. **Optional: Running Flask with ngrok**
+6. ** Running Flask with ngrok**
 
     - If you want to expose your local Flask server to the internet for testing:
       ```bash
